@@ -1,3 +1,7 @@
+ # NOTE: i revised all of the repo and it works fine without implementing the additional dir and i compiled the code to a shorter version, thank you.
+
+
+
 #!/usr/bin/env python3
 """
 PyInstaller build script
